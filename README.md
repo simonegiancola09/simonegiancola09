@@ -13,7 +13,7 @@
 
 - 🛠 I’m working at [Santagostino Medical Center](https://www.santagostino.it/it)
 
-- 🌱 I’m currently learning **Data Science, Statistics, Mathematics**
+- 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
