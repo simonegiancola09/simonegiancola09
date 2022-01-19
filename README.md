@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 I’m working at [Santagostino Medical Center](https://www.santagostino.it/it)
+- 🛠 I’m working at [Santagostino Clinic](https://www.santagostino.it/it)
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
 
