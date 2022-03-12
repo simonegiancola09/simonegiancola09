@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">MS in Data Science Student, Data Science Intern</h3>
+<h3 align="center">MS in Data Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonegiancola09&label=Profile%20views&color=0e75b6&style=flat" alt="simonegiancola09" /> </p>
 
@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 I’m working at [Santagostino Clinic](https://www.santagostino.it/it)
+- 🛠 I’m mostly working on ML projects here
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
 
