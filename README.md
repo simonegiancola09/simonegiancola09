@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 I’m mostly working on ML projects here
+- 🛠 I’m a Visiting Student at Bocconi Institute for Data Science, supervised by Professors Lucibello C. and Saglietti L.
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
 
