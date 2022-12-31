@@ -13,7 +13,7 @@
 
 - 🛠 I’m a Visiting Student at Bocconi Institute for Data Science, supervised by Professors Lucibello C. and Saglietti L.
 
-- 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
+- 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics** to tackle the Theory of Neural Networks
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
