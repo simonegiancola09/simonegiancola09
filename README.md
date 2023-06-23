@@ -11,13 +11,13 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 I’m a Research Intern @IST Austria supervised by Prof. Marco Mondelli
+- 🛠 I’m a Research Intern @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/)
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics** to tackle the Theory of Neural Networks
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
-- 👨‍💻 Other projects are available at [My Portfolio page](https://simonegiancola09.github.io/portfolio/)
+- 👨‍💻 Other stuff is available at [My page](https://simonegiancola09.github.io)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonegiancola09&show_icons=true&locale=en&layout=compact" alt="simonegiancola09" /></p>
 
