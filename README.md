@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **simonegiancola09@gmail.com**
 
-- 📄 Know about my experiences [Give a look at my CV](https://simonegiancola09.github.io/files/CV_academic_Simone_maria_giancola_English.pdf)
+- 📄 Know about my experiences [Give a look at my CV](https://simonegiancola09.github.io/cv/)
 
 - 🎶 Current Music preferences: **Post Punk, Gothic Rock**
 
