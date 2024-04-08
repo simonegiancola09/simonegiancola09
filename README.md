@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">MS in Data Science Student</h3>
+<h3 align="center">Research Intern & MS in Data Science Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonegiancola09&label=Profile%20views&color=0e75b6&style=flat" alt="simonegiancola09" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics** to tackle the Theory of Neural Networks
 
-- 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
+- 💻 I studied at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
 - 👨‍💻 Other stuff is available at [My page](https://simonegiancola09.github.io)
 
