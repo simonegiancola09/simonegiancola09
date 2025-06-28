@@ -11,7 +11,8 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 I am a student in the research Masters' in Probability and Statistics at [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/probabilites-et-statistiques/). I was a Research Intern [KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization. I have been a Research Intern @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and [ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/)
+- 🛠 I am a PhD student in statistics at the [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/en/).
+- ⏮️ I was a Research Intern [KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization. I have been a Research Intern @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and [ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/)
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics** to tackle the Theory of Neural Networks
 
