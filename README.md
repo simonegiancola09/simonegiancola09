@@ -12,7 +12,7 @@
 </p>
 
 - 🛠 (from nov '25) I am a PhD student in statistics at the [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/en/), supervised by [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/), [Nicolas Verzelen](https://verzelen.montpellier.inrae.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/).
-- ⏮️ I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization. I have been a Research Intern @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and @[ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/)
+- ⏮️ I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and @[ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/)
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics** to tackle the Theory of Neural Networks
 
