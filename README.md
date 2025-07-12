@@ -11,12 +11,12 @@
 <a href="https://stackoverflow.com/users/13241440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13241440" height="30" width="40" /></a>
 </p>
 
-- 🛠 (from nov '25) I am a PhD student in statistics at the [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/en/), supervised by [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/), [Nicolas Verzelen](https://verzelen.montpellier.inrae.fr/) and [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/).
-- ⏮️ I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and @[ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/).
+- 🛠 (from nov '25) I am a PhD student in statistics at the [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/en/), supervised by [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/) and [Nicolas Verzelen](https://verzelen.montpellier.inrae.fr/)>
+-  ⏮️ I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, @[IST Austria](https://ista.ac.at/de/home/) supervised by [Prof. Marco Mondelli](http://marcomondelli.com/) and @[ENS Paris](https://www.ens.psl.eu/en) supervised by [Bruno Loureiro](https://brloureiro.github.io/).
 
 - 🌱 I’m currently learning **machine learning, statistics, computer science** to tackle algorithmic and statistical thresholds.
 
-- 💻 I studied at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/).
+- 💻 I studied at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/) and at [Orsay Institute, Paris-Saclay University](https://www.imo.universite-paris-saclay.fr/en/).
 
 - 👨‍💻 Other stuff is available at [My page](https://simonegiancola09.github.io)
 
